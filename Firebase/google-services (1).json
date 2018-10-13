@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "849602977535",
+    "firebase_url": "https://healthcare-36fda.firebaseio.com",
+    "project_id": "healthcare-36fda",
+    "storage_bucket": "healthcare-36fda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849602977535:android:647627aa6186f452",
+        "android_client_info": {
+          "package_name": "com.example.nikit.labassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849602977535-i1j9hatrqf8gquvthtnn0p02ue371lvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3xllEj6TfIwruZMUuydM-ajTmKsGzibk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
